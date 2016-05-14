@@ -35,3 +35,85 @@ a:hover .header-profile-image {
 .has-error .help-inline.error-text {
   display: inline;
 }
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 50px;
+    height: 50px;
+    padding-top: 0;
+}
+.navbar-inverse {
+  background-image: linear-gradient(to bottom, #0084ff 0%, crimson 100%);
+}
+
+.hotDog {
+  color: #0084ff;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.hamburger {
+  color: #ee4466;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.cheeseburger {
+  color: #0084ff;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.beer {
+  color: #ee4466;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#choose {
+  color: #0084ff;
+  font-size: 22px;
+}
+
+.lead {
+  color: #0084ff;
+  font-weight: bold;
+}
+.minutes {
+  color: #ee4466;
+  border: 1px solid;
+}
+#congrats {
+  color: #0084ff;
+  font-size: 20px;
+}
+
+.yourChoice {
+  color: #0084ff;
+}
+
+.blue {
+  color: #0084ff;
+}
+
+.pink {
+    color: #ee4466;
+}
+.icon {
+    color: #0084ff;
+}
+
+.instructionsList li {
+  padding-bottom: 2%;
+}
+
+.orderInstructions {
+  margin-top: 8%;
+}
+
+.sponsors {
+  margin-top: 5%;
+}
+
+.img-responsive {
+max-width: 135%;
+max-height: auto;
+margin-left: -21%;
+}
