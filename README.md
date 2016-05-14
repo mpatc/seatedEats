@@ -5,7 +5,11 @@
 [![Dependencies Status](https://david-dm.org/meanjs/mean.svg)](https://david-dm.org/meanjs/mean)
 [![Coverage Status](https://coveralls.io/repos/meanjs/mean/badge.svg?branch=master&service=github)](https://coveralls.io/github/meanjs/mean?branch=master)
 
-seatedEats is a simple solution for stadiums, arenas and other large venues. Utilizing state-of-the-art location and pedestrian management solutions, this product can eliminate lines at ballgames, concerts and other public events.
+seatedEats is a simple solution for stadiums, arenas and other large venues. Using the power of GE:
+[![GE current logo](http://s32.postimg.org/naos3mi7p/currentlogo.jpg)
+
+
+Utilizing state-of-the-art location and pedestrian management solutions, this product can eliminate lines at ballgames, concerts and other public events.
 
 A simple, 100% trustless and easy to use customer interface allows fans to order food from the comfort of their seats, have it automatically routed to the nearest server/restaurant and delivered to their seats in minutes . All users need is a smart phone.
 
