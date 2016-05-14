@@ -1,5 +1,5 @@
 [![seatedEats logo](http://s32.postimg.org/rzcfzltth/logo.png)](https://www.linkedin.com/in/mpatc/)
-[![GE current logo](http://s32.postimg.org/naos3mi7p/currentlogo.jpg)
+[![GE current logo](http://s32.postimg.org/naos3mi7p/currentlogo.jpg)](http://predix.io)
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/meanjs/mean?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/meanjs/mean.svg?branch=master)](https://travis-ci.org/meanjs/mean)
